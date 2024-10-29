@@ -2,6 +2,11 @@
 
 ![efraportada](https://github.com/user-attachments/assets/be637e67-e21c-44c9-b44d-c77fecce813d)
 
+youtube channel suscribers(https://img.shields.io/youtube/channel/suscribers/@efrainpulido873
+
+
+
+
 - 🔭 I’m currently working on ...trabajando en html
 - 🌱 I’m currently learning ...aprendiendo en html
 - 👯 I’m looking to collaborate on ...en paginas largas 
