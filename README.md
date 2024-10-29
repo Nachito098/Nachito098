@@ -2,7 +2,7 @@
 
 ![efraportada](https://github.com/user-attachments/assets/be637e67-e21c-44c9-b44d-c77fecce813d)
 
-youtube channel suscribers(https://img.shields.io/youtube/channel/suscribers/@efrainpulido873
+[!youtube channel suscribers](https://img.shields.io/youtube/channel/suscribers/@efrainpulido873)
 
 
 
