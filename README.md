@@ -14,7 +14,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">CÓMO INSTALAR VS CODE</h3>
+<h3 align="center">Como instalar visual studio code</h3>
 <div align="center">
 <a href="https://github.com/@efrainpulido873" target="_blank"><img src="portad 1.jpg" width="400" alt="COMO INSTALAR VS CODE"></a>
 <p>
@@ -32,7 +32,7 @@
 
 <td width="50%">
                <br>
-<h3 align="center">CURSO BÁSICO DE HTML</h3>
+<h3 align="center"Como vincular un css con html </h3>
 <div align="center">
 <a href="https://github.com/@efrainpulido873" target="_blank"><img src="portada 2.jpeg" width="400" alt="Curso básico HTML con CSS"></a>
 <p>
