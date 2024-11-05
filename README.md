@@ -5,7 +5,7 @@
 
 [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCiyfPjWINfp3q4ztbnfOtSw?style=social)](@efrainpulido873)
 [![Twitter Follow](https://img.shields.io/twitter/follow/pepe?style=social)](https://twitter.com/@pepe71547711094)
-[![Facebook Follow](https://img.shields.io/badge/Facebook-Follow-blue?style=social&logo=facebook)(https://www.facebook.com/Efrain.Pulido)]
+[![Facebook Follow](https://img.shields.io/badge/Facebook-Follow-blue?style=social&logo=facebook)]
 [![Instagram Follow](https://img.shields.io/badge/Instagram-Follow-purple?style=social&logo=instagram)](https://www.instagram.com/x.pulido03_/)
 
 
