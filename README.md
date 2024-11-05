@@ -5,19 +5,19 @@
 
 [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCiyfPjWINfp3q4ztbnfOtSw?style=social)](@efrainpulido873)
 [![Twitter Follow](https://img.shields.io/twitter/follow/pepe?style=social)](https://twitter.com/@pepe71547711094)
-[![Facebook Follow](https://img.shields.io/badge/Facebook-Follow-blue?style=social&logo=facebook)](https://www.facebook.com/Efrain Pulido)
+[![Facebook Follow](https://img.shields.io/badge/Facebook-Follow-blue?style=social&logo=facebook)(https://www.facebook.com/Efrain Pulido)]
 [![Instagram Follow](https://img.shields.io/badge/Instagram-Follow-purple?style=social&logo=instagram)](https://www.instagram.com/x.pulido03_/)
 
 
 
 - 🔭 Actualmente estoy trabajando en ...trabajando en html
 - 🌱 Actualmente estoy aprendiendo ...aprendiendo en html
-- 👯 I’m looking to collaborate on ...en paginas largas 
-- 🤔 I’m looking for help with ...aveces en html
-- 💬 Ask me about ...fucho
-- 📫 How to reach me: ...por insta
-- 😄 Pronouns: ...kong
-- ⚡ Fun fact: ...¿Como surgieron los corridos tumbados?
+- 👯 Estoy buscando colaborar en ...en paginas largas 
+- 🤔 Estoy buscando ayuda con ...aveces en html
+- 💬 Preguntame de...fucho
+- 📫 Como llegar a mi: ...por insta
+- 😄 Pronombres: ...kong
+- ⚡ Dato curioso: ...¿Como surgieron los corridos tumbados?
 
 Muchos aún no lo saben, pero los elementos del polka y folklor fueron introducidos por europeos a México en el 1830. El sonido de la guitarra y el acordeón fueron adaptados por el pueblo, adquiriendo se cómo música propia. Artistas como Narciso Martínez recuerdan haber escuchado la polka cuando eran tan solo un niño Pero algunos artistas remplazaron el latón con otros sonidos , también comenzaron a contar sus historias y el uso de las letras para dar noticia a la revolución , se conocerían cómo boleros mexicanos. 
 
