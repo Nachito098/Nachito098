@@ -2,16 +2,16 @@
 
 ![efraportada](https://github.com/user-attachments/assets/be637e67-e21c-44c9-b44d-c77fecce813d)
 
-[![youtube channel suscribers](https://img.shields.io/youtube/channel/suscribers/UCiyfPjWINfp3q4ztbnfOtSw?style=social)](htpps://www.youtube.com/channel/@efrainpulido873)
 
+[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCiyfPjWINfp3q4ztbnfOtSw?style=social)](@efrainpulido873)
 [![Twitter Follow](https://img.shields.io/twitter/follow/pepe?style=social)](https://twitter.com/@pepe71547711094)
 [![Facebook Follow](https://img.shields.io/badge/Facebook-Follow-blue?style=social&logo=facebook)](https://www.facebook.com/Efrain Pulido)
 [![Instagram Follow](https://img.shields.io/badge/Instagram-Follow-purple?style=social&logo=instagram)](https://www.instagram.com/x.pulido03_/)
 
 
 
-- 🔭 I’m currently working on ...trabajando en html
-- 🌱 I’m currently learning ...aprendiendo en html
+- 🔭 Actualmente estoy trabajando en ...trabajando en html
+- 🌱 Actualmente estoy aprendiendo ...aprendiendo en html
 - 👯 I’m looking to collaborate on ...en paginas largas 
 - 🤔 I’m looking for help with ...aveces en html
 - 💬 Ask me about ...fucho
